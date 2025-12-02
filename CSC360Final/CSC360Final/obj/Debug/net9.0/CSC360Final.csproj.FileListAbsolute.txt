@@ -1,0 +1,15 @@
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\bin\Debug\net9.0\CSC360Final.exe
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\bin\Debug\net9.0\CSC360Final.deps.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\bin\Debug\net9.0\CSC360Final.runtimeconfig.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\bin\Debug\net9.0\CSC360Final.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\bin\Debug\net9.0\CSC360Final.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.AssemblyInfoInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.AssemblyInfo.cs
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.csproj.CoreCompileInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.sourcelink.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\refint\CSC360Final.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\CSC360Final.genruntimeconfig.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\CSC360Final\CSC360Final\obj\Debug\net9.0\ref\CSC360Final.dll
