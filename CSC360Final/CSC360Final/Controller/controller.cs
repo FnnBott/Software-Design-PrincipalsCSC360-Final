@@ -21,5 +21,22 @@ public class controller
         mageLevel.Promote();
         mageLevel.Promote();
         mageLevel.Promote();
+        
+        Console.WriteLine("Starting Proxy: User = Student...");
+        
+        SpellProxy studentSpellProxy = new SpellProxy("student");
+        studentSpellProxy.listSpells();
+        Console.WriteLine(studentSpellProxy.addSpell("Summon Boulder"));
+        Console.WriteLine(studentSpellProxy.removeSpell("Ice Spike"));
+        
+        
+        Console.WriteLine("Starting Proxy: User = Wizard...");
+        
+        SpellProxy wizardSpellProxy = new SpellProxy("wizard");
+        wizardSpellProxy.listSpells();
+        Console.WriteLine(wizardSpellProxy.addSpell("Meteor"));
+        Console.WriteLine(wizardSpellProxy.removeSpell("Water Sprite"));
+        
+        
     }
 }

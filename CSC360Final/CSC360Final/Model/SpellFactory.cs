@@ -1,6 +1,6 @@
 ﻿namespace CSC360Final.Model;
 
-public interface ISpell
+public partial interface ISpell
 {
     string GetSpell();
 }
