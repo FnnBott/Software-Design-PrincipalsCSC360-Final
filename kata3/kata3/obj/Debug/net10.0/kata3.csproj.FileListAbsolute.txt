@@ -1,0 +1,15 @@
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\bin\Debug\net10.0\kata3.exe
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\bin\Debug\net10.0\kata3.deps.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\bin\Debug\net10.0\kata3.runtimeconfig.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\bin\Debug\net10.0\kata3.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\bin\Debug\net10.0\kata3.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.AssemblyInfoInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.AssemblyInfo.cs
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.csproj.CoreCompileInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.sourcelink.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\refint\kata3.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\kata3.genruntimeconfig.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360-Final\kata3\kata3\obj\Debug\net10.0\ref\kata3.dll
